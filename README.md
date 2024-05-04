@@ -3,7 +3,7 @@
 
 - 💬 ask me about **cs / bba at uw & wlu**
 
-- 📫 how to reach me **jaeeungracelee@gmail.com**
+- 📫 how to reach me: **jaeeungracelee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
