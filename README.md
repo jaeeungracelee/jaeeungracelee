@@ -11,6 +11,7 @@
 <a href="https://instagram.com/gracelee05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gracelee05_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24886137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24886137" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jaeeungracelee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaeeungracelee" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/jaeeungracelee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaeeungracelee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">languages and tools:</h3>
