@@ -1,11 +1,10 @@
 <h1 align="center">hey 👋, i'm jaeeun grace lee</h1>
 <h3 align="center">a computer science & business administration double degree student at uwaterloo!</h3>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=jaeeungracelee&label=profile%20views&color=0e75b6&style=flat" alt="jaeeungracelee" /></p>
 
 - 💬 ask me about **cs / bba at uw & wlu**
 - 📫 how to reach me: **jaeeungracelee@gmail.com**
 
-<h3 align="left">connect with me:</h3>
+<h3 align="left">connect with me: <img src="https://komarev.com/ghpvc/?username=jaeeungracelee&label=profile%20views&color=0e75b6&style=flat" alt="jaeeungracelee" /></h3>
 <p align="left">
   <a href="https://linkedin.com/in/jaeeungracelee" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaeeungracelee" height="30" width="40" /></a>
@@ -61,10 +60,10 @@
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
       </p>
     </td>
-  </tr>
-</table>
+  </tr>  
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeeungracelee" alt="jaeeungracelee" /> -->
+</table> 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeeungracelee" alt="jaeeungracelee" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeeungracelee&" alt="jaeeungracelee" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeeungracelee&" alt="jaeeungracelee" />
 </p>
